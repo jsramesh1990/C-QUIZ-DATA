@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the key memory characteristic of a union?",
+      "options": [
+        "A. Each member always has separate storage",
+        "B. Members share the same storage area",
+        "C. A union cannot contain numeric types",
+        "D. A union always uses one byte"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which keyword defines a union?",
+      "options": [
+        "A. union",
+        "B. shared",
+        "C. variant",
+        "D. group"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Why should a union member generally be interpreted according to the member through which the value was most recently stored?",
+      "options": [
+        "A. Because all members hold independent values",
+        "B. Because members share the same storage",
+        "C. Because only the first member exists",
+        "D. Because unions cannot contain integers"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of enum in C?",
+      "options": [
+        "A. To define a set of named integer constants",
+        "B. To allocate dynamic memory",
+        "C. To create floating-point variables",
+        "D. To define file streams"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If enum Color { RED, GREEN, BLUE }; is declared, what value is assigned to RED by default?",
+      "options": [
+        "A. -1",
+        "B. 0",
+        "C. 1",
+        "D. 255"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "In enum Color { RED, GREEN, BLUE };, what is the default value of BLUE?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Can an enum constant be explicitly assigned a value?",
+      "options": [
+        "A. No",
+        "B. Yes",
+        "C. Only in C++",
+        "D. Only when the value is zero"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which generally requires enough storage for all its members, subject to padding and implementation details?",
+      "options": [
+        "A. A structure",
+        "B. A union",
+        "C. An enum constant",
+        "D. A macro"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which generally has storage sufficient for its largest member, subject to alignment and implementation details?",
+      "options": [
+        "A. A union",
+        "B. A structure",
+        "C. A function",
+        "D. A string literal"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Why might a union be useful in embedded systems?",
+      "options": [
+        "A. It can allow different interpretations of the same storage when used correctly",
+        "B. It automatically prevents all memory corruption",
+        "C. It always increases memory usage",
+        "D. It replaces every pointer"
+      ]
+    }
+  ]
+}

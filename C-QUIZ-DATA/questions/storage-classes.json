@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which storage class is the default for a local variable declared inside a block when no storage class is specified?",
+      "options": [
+        "A. auto",
+        "B. extern",
+        "C. static",
+        "D. register"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is a key property of a local static variable?",
+      "options": [
+        "A. It is recreated and initialized on every block entry",
+        "B. It retains its value between function calls",
+        "C. It must be stored in a CPU register",
+        "D. It is always visible from other source files"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does extern typically indicate?",
+      "options": [
+        "A. The variable is defined in another place, often another source file",
+        "B. The variable must be allocated on the stack",
+        "C. The variable is a compile-time constant",
+        "D. The variable is always thread-local"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the typical scope of a local variable declared with static inside a function?",
+      "options": [
+        "A. Entire program",
+        "B. The containing function block",
+        "C. Only the next statement",
+        "D. All source files"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the lifetime of a static storage-duration variable?",
+      "options": [
+        "A. Only during one statement",
+        "B. For the execution of the program",
+        "C. Only until the next function call",
+        "D. Only while its block is active"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does register suggest to the compiler?",
+      "options": [
+        "A. Request that the variable be stored in a CPU register if practical",
+        "B. Force the variable into a CPU register",
+        "C. Make the variable constant",
+        "D. Make the variable global"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Can the address of a variable declared with register be obtained using & in standard C?",
+      "options": [
+        "A. Yes, always",
+        "B. No, the address-of operator cannot be applied to a register storage-class variable",
+        "C. Only if it is global",
+        "D. Only when it is a pointer"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the main difference between a local automatic variable and a local static variable?",
+      "options": [
+        "A. Automatic variables have automatic storage duration; local static variables have static storage duration",
+        "B. Automatic variables are always global; static variables are always local",
+        "C. Static variables cannot be initialized",
+        "D. Automatic variables cannot store integers"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What happens to an uninitialized static-duration integer variable?",
+      "options": [
+        "A. It is initialized to an indeterminate value",
+        "B. It is initialized to zero",
+        "C. It is always initialized to one",
+        "D. It cannot be declared"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which storage class can be used to give a file-scope identifier internal linkage when applied appropriately?",
+      "options": [
+        "A. static",
+        "B. auto",
+        "C. register",
+        "D. typedef"
+      ]
+    }
+  ]
+}

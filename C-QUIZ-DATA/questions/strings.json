@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "In C, what terminates a null-terminated string?",
+      "options": [
+        "A. A newline character",
+        "B. A space character",
+        "C. The null character '\\0'",
+        "D. EOF"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the type of a string literal such as \"hello\" in C?",
+      "options": [
+        "A. char array",
+        "B. int array",
+        "C. char pointer only",
+        "D. struct"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which header declares strlen and strcpy?",
+      "options": [
+        "A. stdio.h",
+        "B. string.h",
+        "C. stdlib.h",
+        "D. ctype.h"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does strlen(\"hello\") return?",
+      "options": [
+        "A. 4",
+        "B. 5",
+        "C. 6",
+        "D. The address of the string"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does strcpy(dest, src) do?",
+      "options": [
+        "A. Compares dest and src",
+        "B. Copies the string from src into dest",
+        "C. Appends dest to src",
+        "D. Returns the length of dest"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does strcmp(a, b) return when the two strings contain the same characters in the same order?",
+      "options": [
+        "A. -1",
+        "B. 0",
+        "C. 1",
+        "D. The string length"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which declaration creates space for 20 characters in a character array?",
+      "options": [
+        "A. char s(20);",
+        "B. char s[20];",
+        "C. string s[20];",
+        "D. char[20] s;"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Why is one extra character often needed when allocating an array for a C string?",
+      "options": [
+        "A. To store a second copy",
+        "B. To store the terminating '\\0'",
+        "C. To store the array size automatically",
+        "D. To store EOF"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the main purpose of strcat(dest, src)?",
+      "options": [
+        "A. Append src to the end of dest",
+        "B. Compare dest and src",
+        "C. Delete src",
+        "D. Reverse dest"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is a common limitation of scanf(\"%s\", name) when reading a character array?",
+      "options": [
+        "A. It normally stops reading at whitespace",
+        "B. It always reads an entire line including spaces",
+        "C. It requires a %d format",
+        "D. It stores the input in an int"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which function allocates a block of uninitialized dynamic memory?",
+      "options": [
+        "A. malloc",
+        "B. calloc",
+        "C. free",
+        "D. memset"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which function allocates an array-like block and initializes its allocated bytes to zero?",
+      "options": [
+        "A. malloc",
+        "B. calloc",
+        "C. realloc",
+        "D. fopen"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which function releases memory previously allocated by malloc, calloc, or realloc?",
+      "options": [
+        "A. delete",
+        "B. free",
+        "C. release",
+        "D. clear"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does realloc generally do?",
+      "options": [
+        "A. Changes the size of an existing allocated block, possibly moving it",
+        "B. Always frees memory without allocating",
+        "C. Only initializes memory to zero",
+        "D. Opens a file"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What should a program generally do with a successful dynamic allocation when the memory is no longer needed?",
+      "options": [
+        "A. Call free on the allocated block",
+        "B. Call printf on the pointer",
+        "C. Call fopen on the pointer",
+        "D. Never release it"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is a memory leak?",
+      "options": [
+        "A. Allocated memory that is no longer reachable or properly released",
+        "B. A syntax error in a pointer declaration",
+        "C. A compiler warning about integers",
+        "D. A file with no newline"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is a dangling pointer?",
+      "options": [
+        "A. A pointer that refers to an object whose lifetime has ended or memory that has been released",
+        "B. A pointer that always equals NULL",
+        "C. A pointer to a valid global variable",
+        "D. A pointer to a string literal only"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does malloc return on allocation failure?",
+      "options": [
+        "A. A valid pointer to zero bytes",
+        "B. NULL",
+        "C. EOF",
+        "D. -1 as a pointer value"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Why can realloc be dangerous if used carelessly?",
+      "options": [
+        "A. It may move the allocation, invalidating pointers into the old block",
+        "B. It always makes the block smaller",
+        "C. It cannot allocate any memory",
+        "D. It automatically makes all pointers NULL"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which memory area is commonly associated with malloc and related dynamic allocation?",
+      "options": [
+        "A. Heap",
+        "B. CPU register file only",
+        "C. Instruction cache only",
+        "D. Preprocessor buffer"
+      ]
+    }
+  ]
+}

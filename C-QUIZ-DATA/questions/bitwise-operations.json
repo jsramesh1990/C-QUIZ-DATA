@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the result of 5 & 3 using bitwise AND?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 6",
+        "D. 7"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the result of 5 | 3 using bitwise OR?",
+      "options": [
+        "A. 1",
+        "B. 5",
+        "C. 7",
+        "D. 8"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the result of 5 ^ 3 using bitwise XOR?",
+      "options": [
+        "A. 1",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the bitwise NOT operator ~ do?",
+      "options": [
+        "A. Inverts each bit of its operand",
+        "B. Shifts bits left by one",
+        "C. Sets all bits to zero",
+        "D. Performs logical AND"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does x << 1 generally do to the bit pattern of x?",
+      "options": [
+        "A. Shifts bits one position to the left",
+        "B. Shifts bits one position to the right",
+        "C. Toggles only the lowest bit",
+        "D. Divides every bit by two"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does x >> 1 generally do to the bit pattern of x?",
+      "options": [
+        "A. Shifts bits one position to the right",
+        "B. Shifts bits one position to the left",
+        "C. Sets every bit to one",
+        "D. Performs XOR with one"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which operation is commonly used to test whether a particular bit is set?",
+      "options": [
+        "A. Bitwise AND with an appropriate mask",
+        "B. Bitwise NOT with zero only",
+        "C. Addition of two pointers",
+        "D. String concatenation"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the binary representation of decimal 10 using four bits?",
+      "options": [
+        "A. 1001",
+        "B. 1010",
+        "C. 1100",
+        "D. 1110"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the result of 8 >> 2 for a nonnegative integer 8?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 4",
+        "D. 32"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which operator is commonly used to toggle selected bits using a mask?",
+      "options": [
+        "A. &",
+        "B. |",
+        "C. ^",
+        "D. ~"
+      ]
+    }
+  ]
+}

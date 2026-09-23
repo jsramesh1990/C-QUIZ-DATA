@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which parameter of main commonly contains the number of command-line arguments?",
+      "options": [
+        "A. argc",
+        "B. argv",
+        "C. args",
+        "D. countv"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which parameter of main commonly provides the argument strings?",
+      "options": [
+        "A. argc",
+        "B. argv",
+        "C. envc",
+        "D. strings"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the type of argv in the conventional declaration int main(int argc, char *argv[])?",
+      "options": [
+        "A. Pointer to char",
+        "B. Array of pointers to char",
+        "C. Array of int",
+        "D. Pointer to int"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does argv[0] conventionally contain?",
+      "options": [
+        "A. The first user-supplied option after the program name",
+        "B. The program name or invocation string",
+        "C. The value of argc",
+        "D. Always NULL"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a program is invoked with no additional user-supplied arguments, what is argc conventionally at least?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does argv[1] refer to when argc is greater than 1?",
+      "options": [
+        "A. The program name",
+        "B. The first command-line argument after the program name",
+        "C. The last argument only",
+        "D. The argument count"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which declaration is a standard form of main for receiving command-line arguments?",
+      "options": [
+        "A. int main(int argc, char *argv[])",
+        "B. void main(string args)",
+        "C. int start(char argv)",
+        "D. main(argc, argv)"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What should a program check before accessing argv[2]?",
+      "options": [
+        "A. That argc is greater than 2",
+        "B. That argc is exactly 2",
+        "C. That argv[0] is NULL",
+        "D. That argv is an integer"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Are command-line arguments provided to a C program as strings?",
+      "options": [
+        "A. Yes",
+        "B. No, they are always integers",
+        "C. No, they are always floats",
+        "D. Only on embedded systems"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is a common use of command-line arguments?",
+      "options": [
+        "A. Passing configuration values or options when starting a program",
+        "B. Allocating stack memory automatically",
+        "C. Defining C keywords",
+        "D. Replacing the compiler"
+      ]
+    }
+  ]
+}

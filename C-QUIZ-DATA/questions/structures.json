@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which keyword is used to define a structure in C?",
+      "options": [
+        "A. record",
+        "B. struct",
+        "C. class",
+        "D. object"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How do you access a member of a structure variable s using the member name age?",
+      "options": [
+        "A. s->age",
+        "B. s.age",
+        "C. s::age",
+        "D. s[age]"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How do you access a structure member through a pointer p to the structure?",
+      "options": [
+        "A. p.age",
+        "B. p->age",
+        "C. p::age",
+        "D. p[age]"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Can a structure contain members of different data types?",
+      "options": [
+        "A. No, all members must have the same type",
+        "B. Yes, members can have different data types",
+        "C. Only if all members are pointers",
+        "D. Only inside a union"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is an array of structures?",
+      "options": [
+        "A. An array where each element is a structure object of the same structure type",
+        "B. A structure containing only arrays",
+        "C. A pointer to one structure",
+        "D. A union of structures"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which operator accesses a member through a structure pointer?",
+      "options": [
+        "A. .",
+        "B. ->",
+        "C. *.",
+        "D. &."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What happens when a structure is passed to a function by value?",
+      "options": [
+        "A. A copy of the structure value is passed",
+        "B. Only its first member is passed",
+        "C. The structure becomes global",
+        "D. The compiler converts it to a union"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is typedef commonly used for with structures?",
+      "options": [
+        "A. To create a convenient alias for a structure type",
+        "B. To allocate heap memory automatically",
+        "C. To make every member static",
+        "D. To remove structure members"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Can a structure contain a pointer member?",
+      "options": [
+        "A. No",
+        "B. Yes",
+        "C. Only if the pointer is NULL",
+        "D. Only in C++"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which statement best describes structure memory layout?",
+      "options": [
+        "A. Members are stored according to implementation-defined layout rules and may include padding",
+        "B. Every structure is always packed with no padding",
+        "C. All members always share the same address",
+        "D. Structures never occupy memory"
+      ]
+    }
+  ]
+}

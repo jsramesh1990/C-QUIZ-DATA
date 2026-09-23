@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the address-of operator & return when applied to a variable?",
+      "options": [
+        "A. The variable's value",
+        "B. The variable's memory address",
+        "C. The variable's data type",
+        "D. The size of the variable"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which operator is used to dereference a pointer?",
+      "options": [
+        "A. &",
+        "B. *",
+        "C. %",
+        "D. #"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If int x = 10; and int *p = &x;, what does *p evaluate to?",
+      "options": [
+        "A. The address of x",
+        "B. 0",
+        "C. 10",
+        "D. The size of x"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the type of a pointer that stores the address of an int variable?",
+      "options": [
+        "A. int",
+        "B. int **",
+        "C. int *",
+        "D. pointer<int>"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does pointer arithmetic p + 1 mean for an int pointer p?",
+      "options": [
+        "A. Increase the address by 1 byte always",
+        "B. Move to the next int-sized memory location",
+        "C. Change the pointed value to 1",
+        "D. Set p to NULL"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is a NULL pointer?",
+      "options": [
+        "A. A pointer that points to a valid integer",
+        "B. A pointer whose value represents no valid object address",
+        "C. A pointer that always points to address 1",
+        "D. A pointer to a string"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which declaration creates a pointer to a pointer to int?",
+      "options": [
+        "A. int *p;",
+        "B. int **p;",
+        "C. int &p;",
+        "D. int p**;"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "If int a[3] = {10, 20, 30};, what does *(a + 1) evaluate to?",
+      "options": [
+        "A. 10",
+        "B. 20",
+        "C. 30",
+        "D. The address of a"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Why are pointers commonly used when passing a variable to a function for modification?",
+      "options": [
+        "A. They allow the function to access the caller's object through its address",
+        "B. They automatically make every variable global",
+        "C. They prevent the function from accessing memory",
+        "D. They convert all values to strings"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does const int *p mean?",
+      "options": [
+        "A. p itself cannot change",
+        "B. The int object accessed through p should not be modified through p",
+        "C. Both p and the int object can never change",
+        "D. p is a constant integer"
+      ]
+    }
+  ]
+}

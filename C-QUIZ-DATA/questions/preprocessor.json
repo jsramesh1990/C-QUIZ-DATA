@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which symbol begins a C preprocessor directive?",
+      "options": [
+        "A. @",
+        "B. #",
+        "C. $",
+        "D. %"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does #include generally do?",
+      "options": [
+        "A. Requests inclusion of the contents of a header or source file during preprocessing",
+        "B. Allocates heap memory",
+        "C. Starts program execution",
+        "D. Defines a runtime thread"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does #define commonly create?",
+      "options": [
+        "A. A macro definition",
+        "B. A structure object",
+        "C. A file stream",
+        "D. A CPU register"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of #ifdef?",
+      "options": [
+        "A. Compile code conditionally when a macro is defined",
+        "B. Execute code only when a pointer is NULL",
+        "C. Define a function at runtime",
+        "D. Open a file"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does #ifndef commonly help implement in a header?",
+      "options": [
+        "A. Include guards",
+        "B. Dynamic allocation",
+        "C. String comparison",
+        "D. File locking"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which directive ends a conditional preprocessing section started by #if, #ifdef, or #ifndef?",
+      "options": [
+        "A. #end",
+        "B. #endif",
+        "C. #stop",
+        "D. #close"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "When does macro expansion primarily occur?",
+      "options": [
+        "A. During preprocessing",
+        "B. During program shutdown",
+        "C. Only after execution",
+        "D. During CPU boot"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is a function-like macro?",
+      "options": [
+        "A. A macro that accepts arguments",
+        "B. A function stored in a register",
+        "C. A macro that can only return int",
+        "D. A runtime library function"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of conditional compilation?",
+      "options": [
+        "A. Select source-code sections to be compiled based on preprocessing conditions",
+        "B. Change RAM size at runtime",
+        "C. Automatically optimize every loop",
+        "D. Replace the linker"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which directive can be used to deliberately generate a preprocessing error with a message?",
+      "options": [
+        "A. #warning",
+        "B. #error",
+        "C. #stop",
+        "D. #fail"
+      ]
+    }
+  ]
+}

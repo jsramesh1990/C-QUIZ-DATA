@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which standard C function opens a file?",
+      "options": [
+        "A. fopen",
+        "B. openfile",
+        "C. fileopen",
+        "D. startfile"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which standard C function closes a file stream?",
+      "options": [
+        "A. close",
+        "B. fclose",
+        "C. endfile",
+        "D. stop"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does fopen(\"data.txt\", \"r\") request?",
+      "options": [
+        "A. Open data.txt for reading",
+        "B. Open data.txt for writing and truncate it",
+        "C. Create data.txt for append only",
+        "D. Delete data.txt"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does fopen(\"data.txt\", \"w\") generally do if the file already exists?",
+      "options": [
+        "A. Opens it only for reading",
+        "B. Opens it for writing and truncates its existing contents",
+        "C. Appends without changing existing contents",
+        "D. Refuses to open it always"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does fopen(\"data.txt\", \"a\") generally do?",
+      "options": [
+        "A. Opens for appending, with writes directed to the end",
+        "B. Opens for reading only",
+        "C. Truncates the file before reading",
+        "D. Deletes the file"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does fopen return if the file cannot be opened?",
+      "options": [
+        "A. EOF",
+        "B. NULL",
+        "C. -1 as a FILE pointer",
+        "D. Zero-length string"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which function writes formatted output to a file stream?",
+      "options": [
+        "A. fscanf",
+        "B. fprintf",
+        "C. fscan",
+        "D. fwritef"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which function reads formatted input from a file stream?",
+      "options": [
+        "A. fscanf",
+        "B. fprintf",
+        "C. freadf",
+        "D. readscan"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which function changes the file position indicator?",
+      "options": [
+        "A. fseek",
+        "B. fmove",
+        "C. filepos",
+        "D. seekfileonly"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is FILE in standard C?",
+      "options": [
+        "A. A standard library type used to represent a file stream",
+        "B. A preprocessor directive",
+        "C. A CPU register",
+        "D. A keyword"
+      ]
+    }
+  ]
+}
