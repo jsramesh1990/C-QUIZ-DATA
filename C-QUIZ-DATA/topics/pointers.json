@@ -1,0 +1,7 @@
+{
+  "id": "pointers",
+  "title": "Pointers",
+  "description": "Learn pointer basics, memory addresses, dereferencing, pointer arithmetic, and pointer relationships.",
+  "level": "Intermediate",
+  "order": 11
+}

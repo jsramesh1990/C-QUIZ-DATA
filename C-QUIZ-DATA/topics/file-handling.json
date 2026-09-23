@@ -1,0 +1,7 @@
+{
+  "id": "file-handling",
+  "title": "File Handling",
+  "description": "Learn file operations in C including fopen, fclose, reading, writing, file modes, and file positioning.",
+  "level": "Intermediate",
+  "order": 18
+}

@@ -1,0 +1,7 @@
+{
+  "id": "preprocessor",
+  "title": "Preprocessor",
+  "description": "Learn C preprocessor directives, macros, header files, conditional compilation, and include guards.",
+  "level": "Intermediate",
+  "order": 16
+}

@@ -1,0 +1,7 @@
+{
+  "id": "storage-classes",
+  "title": "Storage Classes",
+  "description": "Learn auto, static, extern, and register storage classes, including scope, lifetime, and linkage.",
+  "level": "Intermediate",
+  "order": 15
+}

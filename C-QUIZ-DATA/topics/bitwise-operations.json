@@ -1,0 +1,7 @@
+{
+  "id": "bitwise-operations",
+  "title": "Bitwise Operations",
+  "description": "Learn bitwise AND, OR, XOR, NOT, shift operations, masks, and bit manipulation techniques used in C.",
+  "level": "Intermediate",
+  "order": 19
+}

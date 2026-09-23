@@ -1,0 +1,7 @@
+{
+  "id": "unions-enums",
+  "title": "Unions & Enums",
+  "description": "Learn unions, enumerations, shared memory, enum values, and the differences between structures and unions.",
+  "level": "Intermediate",
+  "order": 14
+}

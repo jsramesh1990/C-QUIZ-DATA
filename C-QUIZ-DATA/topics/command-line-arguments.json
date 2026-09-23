@@ -1,0 +1,7 @@
+{
+  "id": "command-line-arguments",
+  "title": "Command Line Arguments",
+  "description": "Learn argc, argv, command-line parameters, argument handling, and passing values to a C program from the command line.",
+  "level": "Intermediate",
+  "order": 20
+}

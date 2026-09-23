@@ -1,0 +1,7 @@
+{
+  "id": "dynamic-memory",
+  "title": "Dynamic Memory",
+  "description": "Learn dynamic memory allocation using malloc, calloc, realloc, and free, along with memory leaks and dangling pointers.",
+  "level": "Intermediate",
+  "order": 17
+}
