@@ -1,0 +1,7 @@
+{
+  "id": "c-basics",
+  "title": "Introduction to C",
+  "description": "Learn the fundamentals of the C programming language, including program structure, main(), printf(), compilation, and execution.",
+  "level": "Beginner",
+  "order": 1
+}

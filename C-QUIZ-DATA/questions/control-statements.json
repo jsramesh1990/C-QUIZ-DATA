@@ -1,0 +1,105 @@
+{
+  "topic": "control-statements",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement is used to execute a block of code only when a condition is true?",
+      "options": [
+        "A. if",
+        "B. for",
+        "C. switch",
+        "D. goto"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which statement is used to provide an alternative block of code when an if condition is false?",
+      "options": [
+        "A. else",
+        "B. case",
+        "C. default",
+        "D. continue"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which statement is commonly used to select one block of code from multiple choices?",
+      "options": [
+        "A. if",
+        "B. switch",
+        "C. while",
+        "D. break"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which keyword is used to define a choice inside a switch statement?",
+      "options": [
+        "A. option",
+        "B. case",
+        "C. select",
+        "D. choice"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which keyword is used in a switch statement when none of the case values match?",
+      "options": [
+        "A. else",
+        "B. default",
+        "C. otherwise",
+        "D. none"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which keyword is used to immediately exit from a switch statement?",
+      "options": [
+        "A. continue",
+        "B. return",
+        "C. break",
+        "D. exit"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is a nested if statement?",
+      "options": [
+        "A. An if statement inside another if statement",
+        "B. An if statement without a condition",
+        "C. An if statement after a switch statement",
+        "D. An if statement inside a loop only"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which operator combines two conditions where both conditions must be true?",
+      "options": [
+        "A. ||",
+        "B. &&",
+        "C. !",
+        "D. =="
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What happens if a break statement is omitted between cases in a switch statement?",
+      "options": [
+        "A. The program stops immediately",
+        "B. The compiler automatically adds break",
+        "C. Execution can continue into the next case",
+        "D. The switch statement is ignored"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a valid if-else structure in C?",
+      "options": [
+        "A. if (condition) { } else { }",
+        "B. if condition { } otherwise { }",
+        "C. if [condition] { } else [ ]",
+        "D. if <condition> { } else < >"
+      ]
+    }
+  ]
+}

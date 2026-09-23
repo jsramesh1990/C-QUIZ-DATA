@@ -1,0 +1,105 @@
+{
+  "topic": "c-basics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which function is the standard entry point of a C program?",
+      "options": [
+        "A. start()",
+        "B. init()",
+        "C. begin()",
+        "D. main()"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which header file provides the declaration of printf()?",
+      "options": [
+        "A. stdio.h",
+        "B. ctype.h",
+        "C. string.h",
+        "D. stdlib.h"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which symbol is used to terminate a typical C statement?",
+      "options": [
+        "A. Colon (:)",
+        "B. Period (.)",
+        "C. Comma (,)",
+        "D. Semicolon (;)"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which declaration creates an integer variable named count?",
+      "options": [
+        "A. number count;",
+        "B. int count;",
+        "C. integer: count;",
+        "D. integer count;"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does the = operator do in an assignment such as x = 10;?",
+      "options": [
+        "A. Compares x with 10",
+        "B. Prints the value of x",
+        "C. Assigns 10 to x",
+        "D. Declares x as an integer"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which compiler stage converts C source code into an object file in a typical compilation pipeline?",
+      "options": [
+        "A. Compilation",
+        "B. Debugging",
+        "C. Linking",
+        "D. Execution"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which format specifier is commonly used with printf() to display an int value?",
+      "options": [
+        "A. %s",
+        "B. %c",
+        "C. %d",
+        "D. %f"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of a comment in C source code?",
+      "options": [
+        "A. To link libraries",
+        "B. To create a new process",
+        "C. To allocate memory",
+        "D. To document or explain code for readers"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of these is a valid single-line comment syntax in C99 and later?",
+      "options": [
+        "A. -- comment",
+        "B. comment",
+        "C. // comment",
+        "D. \\ comment"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which command commonly compiles a source file named hello.c with GCC and produces the default executable named a.out?",
+      "options": [
+        "A. compile hello.c",
+        "B. gcc hello.c",
+        "C. run hello.c",
+        "D. gcc --run hello.c"
+      ]
+    }
+  ]
+}

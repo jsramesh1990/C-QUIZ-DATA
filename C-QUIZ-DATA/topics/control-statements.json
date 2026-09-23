@@ -1,0 +1,7 @@
+{
+  "id": "control-statements",
+  "title": "Control Statements",
+  "description": "Learn how to control program execution using if, if-else, nested if, switch, break, and continue.",
+  "level": "Beginner",
+  "order": 7
+}

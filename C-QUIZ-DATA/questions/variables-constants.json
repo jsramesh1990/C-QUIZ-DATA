@@ -1,0 +1,105 @@
+{
+  "topic": "variables-constants",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a variable in C?",
+      "options": [
+        "A. A named memory location used to store a value",
+        "B. A keyword used to compile a program",
+        "C. A function that returns a value",
+        "D. A header file"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a valid variable declaration in C?",
+      "options": [
+        "A. integer count;",
+        "B. int count;",
+        "C. variable count;",
+        "D. count int;"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which statement correctly initializes an integer variable?",
+      "options": [
+        "A. int x == 10;",
+        "B. int x := 10;",
+        "C. int x = 10;",
+        "D. int = 10 x;"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which keyword is used to declare a constant variable in C?",
+      "options": [
+        "A. constant",
+        "B. fixed",
+        "C. const",
+        "D. readonly"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What happens when you try to modify a variable declared with const?",
+      "options": [
+        "A. The value is automatically changed",
+        "B. It results in a compilation error",
+        "C. The program ignores the assignment",
+        "D. The variable becomes non-constant"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a valid identifier for a variable?",
+      "options": [
+        "A. 1count",
+        "B. total-value",
+        "C. total_value",
+        "D. float"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Where is a local variable normally accessible?",
+      "options": [
+        "A. Throughout the entire program",
+        "B. Only within the block or function where it is declared",
+        "C. Only inside header files",
+        "D. Only inside main()"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the value of x after executing int x = 10; x = 20;?",
+      "options": [
+        "A. 10",
+        "B. 20",
+        "C. 30",
+        "D. Undefined"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a valid constant declaration?",
+      "options": [
+        "A. const int MAX = 100;",
+        "B. constant int MAX = 100;",
+        "C. fixed int MAX = 100;",
+        "D. int const MAX == 100;"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the main difference between a variable and a constant?",
+      "options": [
+        "A. A variable can change its value, while a const object is not modifiable through that declaration",
+        "B. A constant always uses more memory",
+        "C. A variable cannot store numbers",
+        "D. There is no difference"
+      ]
+    }
+  ]
+}

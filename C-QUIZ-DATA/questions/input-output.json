@@ -1,0 +1,105 @@
+{
+  "topic": "input-output",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which function is commonly used to display output on the screen in C?",
+      "options": [
+        "A. scanf()",
+        "B. printf()",
+        "C. input()",
+        "D. display()"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which function is commonly used to read formatted input from the user in C?",
+      "options": [
+        "A. printf()",
+        "B. getscreen()",
+        "C. scanf()",
+        "D. read()"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which header file is required for printf() and scanf()?",
+      "options": [
+        "A. string.h",
+        "B. stdlib.h",
+        "C. stdio.h",
+        "D. ctype.h"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which format specifier is commonly used with printf() to display an integer?",
+      "options": [
+        "A. %f",
+        "B. %d",
+        "C. %c",
+        "D. %s"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which format specifier is commonly used with printf() to display a floating-point value of type double?",
+      "options": [
+        "A. %d",
+        "B. %c",
+        "C. %s",
+        "D. %f"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which format specifier is commonly used to read a character using scanf()?",
+      "options": [
+        "A. %c",
+        "B. %d",
+        "C. %f",
+        "D. %s"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In scanf(), why is the address-of operator (&) commonly used with a variable such as int x?",
+      "options": [
+        "A. To print the variable",
+        "B. To pass the variable's address so scanf() can store the input",
+        "C. To convert the variable to a string",
+        "D. To allocate memory for the variable"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which escape sequence moves the cursor to a new line?",
+      "options": [
+        "A. \\t",
+        "B. \\b",
+        "C. \\n",
+        "D. \\r"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which escape sequence is used to insert a horizontal tab?",
+      "options": [
+        "A. \\n",
+        "B. \\t",
+        "C. \\0",
+        "D. \\a"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which function can be used to read a single character from standard input?",
+      "options": [
+        "A. getchar()",
+        "B. putchar()",
+        "C. printf()",
+        "D. puts()"
+      ]
+    }
+  ]
+}

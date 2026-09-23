@@ -1,0 +1,105 @@
+{
+  "topic": "data-types",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which data type is commonly used to store an integer value in C?",
+      "options": [
+        "A. float",
+        "B. int",
+        "C. char",
+        "D. double"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which data type is used to store a single character in C?",
+      "options": [
+        "A. char",
+        "B. int",
+        "C. float",
+        "D. string"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which data type is commonly used to store a single-precision floating-point value?",
+      "options": [
+        "A. int",
+        "B. char",
+        "C. float",
+        "D. void"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which data type generally provides more precision than float for floating-point values?",
+      "options": [
+        "A. char",
+        "B. int",
+        "C. double",
+        "D. short"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which keyword is used to indicate that a function does not return a value?",
+      "options": [
+        "A. null",
+        "B. empty",
+        "C. void",
+        "D. none"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which type modifier can be used with an integer type to increase its range?",
+      "options": [
+        "A. long",
+        "B. small",
+        "C. decimal",
+        "D. real"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which type modifier can be used to specify an integer that cannot store negative values?",
+      "options": [
+        "A. signed",
+        "B. unsigned",
+        "C. positive",
+        "D. nonnegative"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a valid declaration of a character variable?",
+      "options": [
+        "A. character ch;",
+        "B. char ch;",
+        "C. string ch;",
+        "D. character: ch;"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which data type is used by sizeof to represent the size of an object in bytes?",
+      "options": [
+        "A. size_t",
+        "B. int8",
+        "C. byte",
+        "D. memory_t"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a valid declaration of a double variable?",
+      "options": [
+        "A. double value;",
+        "B. decimal value;",
+        "C. real value;",
+        "D. floating value;"
+      ]
+    }
+  ]
+}

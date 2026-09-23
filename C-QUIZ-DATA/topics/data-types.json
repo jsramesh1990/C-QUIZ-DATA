@@ -1,0 +1,7 @@
+{
+  "id": "data-types",
+  "title": "Data Types",
+  "description": "Learn C data types such as char, int, float, double, void, and type modifiers.",
+  "level": "Beginner",
+  "order": 3
+}

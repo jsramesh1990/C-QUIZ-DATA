@@ -1,0 +1,7 @@
+{
+  "id": "input-output",
+  "title": "Input and Output",
+  "description": "Learn how to take input and display output using printf(), scanf(), and format specifiers.",
+  "level": "Beginner",
+  "order": 5
+}

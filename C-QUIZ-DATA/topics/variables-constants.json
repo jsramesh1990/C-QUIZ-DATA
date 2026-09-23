@@ -1,0 +1,7 @@
+{
+  "id": "variables-constants",
+  "title": "Variables and Constants",
+  "description": "Learn how to declare, initialize, and use variables and constants in C.",
+  "level": "Beginner",
+  "order": 4
+}

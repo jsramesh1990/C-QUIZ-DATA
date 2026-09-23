@@ -1,0 +1,105 @@
+{
+  "topic": "functions",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a function in C?",
+      "options": [
+        "A. A variable that stores multiple values",
+        "B. A block of code designed to perform a specific task",
+        "C. A data type used to store characters",
+        "D. A compiler directive"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which part of a function tells the compiler the function's name, return type, and parameters before its definition?",
+      "options": [
+        "A. Function call",
+        "B. Function declaration",
+        "C. Function body",
+        "D. Function loop"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which keyword is used when a function does not return a value?",
+      "options": [
+        "A. null",
+        "B. empty",
+        "C. void",
+        "D. none"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is used to execute a function?",
+      "options": [
+        "A. Function call",
+        "B. Function declaration",
+        "C. Function prototype",
+        "D. Function header"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which keyword is used to send a value back from a function to its caller?",
+      "options": [
+        "A. break",
+        "B. send",
+        "C. return",
+        "D. output"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What are the values passed to a function when it is called called?",
+      "options": [
+        "A. Arguments",
+        "B. Headers",
+        "C. Declarations",
+        "D. Operators"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What are the variables listed in a function definition that receive values from the caller?",
+      "options": [
+        "A. Arguments",
+        "B. Parameters",
+        "C. Constants",
+        "D. Identifiers"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is recursion in C?",
+      "options": [
+        "A. Calling one program from another program",
+        "B. A function calling itself",
+        "C. Calling multiple functions at the same time",
+        "D. Repeating a variable declaration"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the main advantage of using functions in a C program?",
+      "options": [
+        "A. They eliminate the need for variables",
+        "B. They make code reusable and easier to organize",
+        "C. They automatically allocate all memory",
+        "D. They remove the need for compilation"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a valid function declaration?",
+      "options": [
+        "A. int add(int a, int b);",
+        "B. function int add(int a, int b);",
+        "C. declare add(int a, int b);",
+        "D. add int(int a, int b);"
+      ]
+    }
+  ]
+}

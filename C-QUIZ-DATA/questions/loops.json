@@ -1,0 +1,105 @@
+{
+  "topic": "loops",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which loop is commonly used when the number of iterations is known in advance?",
+      "options": [
+        "A. for",
+        "B. while",
+        "C. do-while",
+        "D. switch"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which loop checks its condition before executing the loop body?",
+      "options": [
+        "A. do-while only",
+        "B. while",
+        "C. switch",
+        "D. goto"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which loop always executes its body at least once?",
+      "options": [
+        "A. for",
+        "B. while",
+        "C. do-while",
+        "D. switch"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which keyword is used to immediately terminate a loop?",
+      "options": [
+        "A. stop",
+        "B. exit",
+        "C. break",
+        "D. terminate"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which keyword skips the remaining statements in the current loop iteration and moves to the next iteration?",
+      "options": [
+        "A. break",
+        "B. continue",
+        "C. skip",
+        "D. next"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is the correct syntax for a for loop in C?",
+      "options": [
+        "A. for (initialization; condition; update)",
+        "B. for (condition; initialization; update)",
+        "C. loop (initialization; condition; update)",
+        "D. for [initialization, condition, update]"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What happens when the condition of a while loop is initially false?",
+      "options": [
+        "A. The loop body executes once",
+        "B. The loop body does not execute",
+        "C. The program terminates",
+        "D. The compiler reports an error"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is a nested loop?",
+      "options": [
+        "A. A loop without a condition",
+        "B. A loop inside another loop",
+        "C. A loop that executes only once",
+        "D. A loop containing only break"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What type of loop can result in an infinite loop if its condition never becomes false?",
+      "options": [
+        "A. Only for loop",
+        "B. Only while loop",
+        "C. Only do-while loop",
+        "D. Any loop"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which statement correctly creates an infinite loop using a for loop?",
+      "options": [
+        "A. for (false)",
+        "B. for (;;) ",
+        "C. for (break)",
+        "D. infinite for"
+      ]
+    }
+  ]
+}
